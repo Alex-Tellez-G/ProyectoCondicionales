@@ -1,4 +1,4 @@
-/*
+
 // ejercicio condicionales
 
 // Ejercicio 1
@@ -140,7 +140,7 @@ if(parseInt(numero9) > parseInt(numero7) && parseInt(numero9) > parseInt(numero8
 //7. Requerir al usuario que ingrese un día de la semana e imprimir un mensaje si es lunes, 
 // otro mensaje diferente si es viernes, otro mensaje diferente si es sábado o domingo. 
 //Si el día ingresado no es ninguno de esos, imprimir otro mensaje.
-*/
+
 //8. Solicitar al usuario una calificación (entre 1 y 10). 
 //Luego se debe comprobar que el número efectivamente esté en ese rango, 
 //si no lo está imprima un mensaje de error. 
